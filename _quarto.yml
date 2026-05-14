@@ -5,8 +5,7 @@ project:
 website:
   title: "Home"
   description:
-    Course Projects for STA 9750 at Baruch College
-  site-url: "https://YOUR_GITHUB_ID.github.io/STA9750-2026-SPRING/"
+  site-url: "https://tiffany-ngli.github.io/authors-royalty-website/"
   navbar:
     background: primary
     search: false
